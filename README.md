@@ -24,7 +24,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 243,000+ stars, about 9,700 watchers, more than 7,100 commits, 1,900+ contributors, and 50,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repository](https://octoverse.github.com/).
 
 <div align="center" markdown="1">
 
@@ -87,6 +87,7 @@ This project lists books and other resources grouped by genres:
 + [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
 + [Chinese / 中文](books/free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
++ [Catalan / catalan/ català](books/free-programming-books-ca.md)
 + [Danish / dansk](books/free-programming-books-da.md)
 + [Dutch / Nederlands](books/free-programming-books-nl.md)
 + [Estonian / eesti keel](books/free-programming-books-et.md)
@@ -129,9 +130,9 @@ This project lists books and other resources grouped by genres:
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
-+ [Chinese](courses/free-courses-zh.md)
++ [Chinese / 中文](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
-+ [Finnish](courses/free-courses-fi.md)
++ [Finnish / suomi / suomen kieli](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
 + [Greek / ελληνικά](courses/free-courses-el.md)
@@ -145,6 +146,7 @@ This project lists books and other resources grouped by genres:
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
 + [Nepali / नेपाली](courses/free-courses-ne.md)
++ [Norwegian / Norsk](courses/free-courses-no.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
@@ -153,8 +155,8 @@ This project lists books and other resources grouped by genres:
 + [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
-+ [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
++ [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
@@ -182,7 +184,7 @@ Free Podcasts and Screencasts:
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
-+ [Dutch](casts/free-podcasts-screencasts-nl.md)
++ [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)

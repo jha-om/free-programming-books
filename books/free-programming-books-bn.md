@@ -57,6 +57,7 @@
 ### Misc
 
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
+* [কেমনে করে সিস্টেম ডিজাইন?](https://imtiaz-hossain-emu.gitbook.io/system-design/) = Imtiaz Hossain Emu
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
@@ -65,6 +66,7 @@
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+* [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
 
 
 ### Sql
